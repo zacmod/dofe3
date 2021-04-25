@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Third Duke of Edinburgh Site</title>
+    <link>http://localhost/</link>
+    <description>Recent content on My Third Duke of Edinburgh Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Apr 2021 14:19:33 +0100</lastBuildDate><atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>April Update</title>
+      <link>http://localhost/posts/april-update/</link>
+      <pubDate>Sun, 18 Apr 2021 14:19:33 +0100</pubDate>
+      
+      <guid>http://localhost/posts/april-update/</guid>
+      <description>&lt;p&gt;I am increasingly getting better at running, however shortly after the last recorded run my parents became ill with a non-covid related illness and I have not been able to run. Despite this my bouldering and parkour sessions have started again which is good.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>New Site</title>
+      <link>http://localhost/posts/new-site/</link>
+      <pubDate>Sun, 21 Mar 2021 21:05:33 +0000</pubDate>
+      
+      <guid>http://localhost/posts/new-site/</guid>
+      <description>&lt;p&gt;This details the first 5 run/rows of mine since I made the my 3dofe website. I struggled to keep my self motivated and still now. That being said, I always feel better for having done a run and will continue after dofe is over.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
